@@ -77,8 +77,9 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 ## Author
 
-**Daryappa Mane** 
+**Daryappa Mane**, 
 **Ishant Nandeshwar** 
 Student, Computer Science Engineering  
 COEP Technological University, Pune
+
 
